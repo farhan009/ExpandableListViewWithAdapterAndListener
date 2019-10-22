@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/header_TextView_id"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Computer Technology"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"
+        android:background="#E2E2E2"
+        android:paddingLeft="40dp"
+        android:gravity="center_vertical" />
+
+
+</LinearLayout>

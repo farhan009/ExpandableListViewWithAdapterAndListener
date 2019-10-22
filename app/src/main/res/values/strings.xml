@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Expandable ListView</string>
+
+    <string-array name="department_Name_Header">
+
+        <item> Computer </item>
+        <item> Electrical </item>
+        <item> Electronics </item>
+        <item> Marine </item>
+        <item> AutoMobile </item>
+        <item> ShipBuilding </item>
+        <item> Mechanical </item>
+        <item> Power </item>
+        <item> Architecture </item>
+        <item> Civil </item>
+        <item> Garments Design</item>
+        <item> Textile </item>
+
+    </string-array>
+
+    <string-array name="department_Details_Child">
+
+        <item> A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> B computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> C computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> D computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> E computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> F computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> G computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> H computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> I computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> J computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> K computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+        <item> L computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the
+            ability to follow generalized sets of operations, called programs. A "complete" computer including the hardware, the operating system, and peripheral equipment required and used
+            for "full" operation can be referred to as a computer system. </item>
+
+    </string-array>
+
+</resources>
